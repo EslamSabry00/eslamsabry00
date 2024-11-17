@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **meatoverdose Web App**
 
-- 🌱 I’m currently learning **Back-end Laravel**
+- 🌱 I’m currently learning **Back-end ASP.NET**
 
 - 💬 Ask me about **Angular and front-end technology**
 
